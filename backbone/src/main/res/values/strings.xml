@@ -114,8 +114,8 @@
     <string name="rsb_yes">Yes</string>
     <string name="rsb_no">No</string>
     <string name="rsb_format_step_title">Step %1$s of %2$s</string>
-    <string name="rsb_hours">Hours</string>
-    <string name="rsb_minutes">Minutes</string>
+    <string name="rsb_hours">Feet</string>
+    <string name="rsb_minutes">Inches</string>
 
     <!-- Step Errors -->
     <string name="rsb_error_data_failed">Failed to load encrypted data, try again!</string>
